@@ -20,7 +20,7 @@ B.Sc. in Industrial Engineering
 - Assigned as Company's Data Protection Officer
 
 ## Projects
-#### Titanic Survival Analysis Project
+### Titanic Survival Analysis Project
 **Project Overview:**
 
 This project focuses on analyzing the survival rates of passengers aboard the Titanic by identifying key factors that influenced their likelihood of survival. The dataset used for this analysis is publicly available on Kaggle and includes demographic information, ticket details, and survival status of the passengers.
